@@ -1,3 +1,5 @@
+package Section5_ControlFlowStatements;
+
 public class LastDigitChecker {
     public static void main(String[] args) {
         System.out.println(hasSameLastDigit(41,22,71));

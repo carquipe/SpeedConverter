@@ -1,3 +1,5 @@
+package Section5_ControlFlowStatements;
+
 public class PerfectNumber {
     public static void main(String[] args) {
         System.out.println(isPerfectNumber(6));

@@ -1,3 +1,5 @@
+package Section5_ControlFlowStatements;
+
 public class LargestPrime {
     public static int getLargestPrime(int number){
         if(number <= 1){

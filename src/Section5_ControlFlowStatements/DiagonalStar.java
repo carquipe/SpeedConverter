@@ -1,3 +1,5 @@
+package Section5_ControlFlowStatements;
+
 public class DiagonalStar {
     public static void main(String[] args) {
         printSquareStar(2);

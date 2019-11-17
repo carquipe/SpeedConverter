@@ -1,3 +1,5 @@
+package Section5_ControlFlowStatements;
+
 public class EvenDigitSum {
     public static void main(String[] args) {
         System.out.println(getEvenDigitSum(123456789));

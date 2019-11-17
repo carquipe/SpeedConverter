@@ -1,3 +1,5 @@
+package Section5_ControlFlowStatements;
+
 import java.util.Scanner;
 
 public class InputCalculator {

@@ -1,3 +1,5 @@
+package Section5_ControlFlowStatements;
+
 public class PlayingCat {
     public static void main (String[] args){
         System.out.println(isCatPlaying(true,10));

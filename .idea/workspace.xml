@@ -1,26 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="88205a59-1773-45ba-ac90-1907a64c80fc" name="Default Changelist" comment="Configuracion Inicial">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DiagonalStar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EvenDigitSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FactorPrinter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FirstLastDigitSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FlourPacker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GreatestCommonDivisor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InputCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LargestPrime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LastDigitChecker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NumberPalindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NumberToWords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PaintJob.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PerfectNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReadingUserInputChallenge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SharedDigit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="88205a59-1773-45ba-ac90-1907a64c80fc" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +51,7 @@
       </method>
     </configuration>
     <configuration name="DiagonalStar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DiagonalStar" />
+      <option name="MAIN_CLASS_NAME" value="Section5_ControlFlowStatements.DiagonalStar" />
       <module name="SpeedConverter" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -78,7 +59,7 @@
       </method>
     </configuration>
     <configuration name="FlourPacker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FlourPacker" />
+      <option name="MAIN_CLASS_NAME" value="Section5_ControlFlowStatements.FlourPacker" />
       <module name="SpeedConverter" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -86,7 +67,7 @@
       </method>
     </configuration>
     <configuration name="InputCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="InputCalculator" />
+      <option name="MAIN_CLASS_NAME" value="Section5_ControlFlowStatements.InputCalculator" />
       <module name="SpeedConverter" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -94,7 +75,7 @@
       </method>
     </configuration>
     <configuration name="PaintJob" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PaintJob" />
+      <option name="MAIN_CLASS_NAME" value="Section5_ControlFlowStatements.PaintJob" />
       <module name="SpeedConverter" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -102,7 +83,7 @@
       </method>
     </configuration>
     <configuration name="ReadingUserInputChallenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ReadingUserInputChallenge" />
+      <option name="MAIN_CLASS_NAME" value="Section5_ControlFlowStatements.ReadingUserInputChallenge" />
       <module name="SpeedConverter" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -175,7 +156,14 @@
       <option name="project" value="LOCAL" />
       <updated>1571001527157</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Realizados ejercicios de Sección 5.&#10;&#10;TODO: Reorganizar hierarcy para dividr por secciones las clases">
+      <created>1574021303820</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1574021303820</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -191,7 +179,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Configuracion Inicial" />
-    <option name="LAST_COMMIT_MESSAGE" value="Configuracion Inicial" />
+    <MESSAGE value="Realizados ejercicios de Sección 5.&#10;&#10;TODO: Reorganizar hierarcy para dividr por secciones las clases" />
+    <option name="LAST_COMMIT_MESSAGE" value="Realizados ejercicios de Sección 5.&#10;&#10;TODO: Reorganizar hierarcy para dividr por secciones las clases" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
