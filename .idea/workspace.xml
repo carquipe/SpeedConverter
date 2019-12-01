@@ -4,13 +4,23 @@
     <list default="true" id="88205a59-1773-45ba-ac90-1907a64c80fc" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/src/Section6_OOP/Calculator.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Section6_OOP/Carpet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Section6_OOP/Circle.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Section6_OOP/ComplexNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Section6_OOP/Cuboid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Section6_OOP/Cylinder.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Section6_OOP/Floor.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Section6_OOP/Main.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Section6_OOP/Person.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Section6_OOP/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Section6_OOP/Rectangle.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Section6_OOP/SimpleCalculator.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Section6_OOP/Wall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Section7_OOP2/Addition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Section7_OOP2/Burguer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Section7_OOP2/DeluxeBurguer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Section7_OOP2/HealthyBurguer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Section7_OOP2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Section7_OOP2/Printer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -54,17 +64,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.Main (1)">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DiagonalStar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Section5_ControlFlowStatements.DiagonalStar" />
-      <module name="SpeedConverter" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -73,6 +75,20 @@
       <option name="MAIN_CLASS_NAME" value="Section5_ControlFlowStatements.InputCalculator" />
       <module name="SpeedConverter" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Section7_OOP2.Main" />
+      <module name="SpeedConverter" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Section7_OOP2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -139,19 +155,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.DiagonalStar" />
       <item itemvalue="Application.ReadingUserInputChallenge" />
       <item itemvalue="Application.InputCalculator" />
       <item itemvalue="Application.PaintJob" />
       <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Main (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.PaintJob" />
         <item itemvalue="Application.InputCalculator" />
         <item itemvalue="Application.ReadingUserInputChallenge" />
-        <item itemvalue="Application.DiagonalStar" />
       </list>
     </recent_temporary>
   </component>
@@ -187,7 +203,14 @@
       <option name="project" value="LOCAL" />
       <updated>1574021554041</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Avanzado hasta 80. Inhetirtance - Part I">
+      <created>1574638916059</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1574638916059</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -207,7 +230,8 @@
     <MESSAGE value="Configuracion Inicial" />
     <MESSAGE value="Realizados ejercicios de Sección 5.&#10;&#10;TODO: Reorganizar hierarcy para dividr por secciones las clases" />
     <MESSAGE value="Reorganizada Hierarcy para dividr por secciones las clases" />
-    <option name="LAST_COMMIT_MESSAGE" value="Reorganizada Hierarcy para dividr por secciones las clases" />
+    <MESSAGE value="Avanzado hasta 80. Inhetirtance - Part I" />
+    <option name="LAST_COMMIT_MESSAGE" value="Avanzado hasta 80. Inhetirtance - Part I" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
