@@ -3,7 +3,7 @@ package Section7_OOP2;
 public class Main {
 
     public static void main(String[] args) {
-        Burguer baseBurguer = new Burguer("Crystal", 4.0, "Steak");
+        Burguer baseBurguer = new Burguer("Crystal", "Type", 4.0, "Ternera");
         Addition Tomato = new Addition("Tomato", 1.2);
         Addition Chips = new Addition("Chips", 3.5);
         Addition Carrot = new Addition("Carrot", 3.2);
